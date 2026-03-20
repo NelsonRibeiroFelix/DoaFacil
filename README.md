@@ -2,7 +2,7 @@
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
 ![Licença](https://img.shields.io/badge/License-MIT-blue.svg)
-![Versão](https://img.shields.io/badge/Version-MVP%201.0-brightgreen)
+![Versão](https://img.shields.io/badge/Version-MVP%200.1-brightgreen)
 
 O **DoaFácil** é um Produto Viável Mínimo (MVP) desenvolvido para resolver um problema crítico na logística de doações no Brasil: a falta de comunicação eficiente entre doadores individuais e Organizações Não Governamentais (ONGs), que frequentemente resulta no desperdício de itens de grande porte ou perecíveis.
 
