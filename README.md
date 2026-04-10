@@ -79,7 +79,6 @@ Para validar o impacto do projeto, acompanhamos as seguintes métricas:
 Este projeto foi idealizado e desenvolvido por:
 
 - **Iago Santos** - [LinkedIn](#) | [GitHub](#)
-- **Vithor Augusto** - [LinkedIn](#) | [GitHub](#)
 - **Nelson Ribeiro** - [LinkedIn](#) | [GitHub](#)
 
 ---
